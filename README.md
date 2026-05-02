@@ -56,7 +56,7 @@ Reveals trends in sequential or time-indexed data.
 | `seaborn` | Statistical data visualization |
 | `matplotlib` | Plot customization and layout control |
 | `numpy` | Numerical operations |
-| `jupyter` | Interactive notebook environment |
+| `Google collab` | Interactive notebook environment |
 
 ---
 
