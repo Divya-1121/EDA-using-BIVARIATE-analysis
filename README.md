@@ -3,7 +3,7 @@
 > A beginner-friendly Python notebook demonstrating bivariate analysis techniques across four real-world datasets — visualizing relationships between pairs of variables using Seaborn, Pandas, and Matplotlib.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
+![Google collab](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-teal?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
